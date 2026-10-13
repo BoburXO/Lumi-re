@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "title": "Lumière — go‘zallik saloni",
+    "description": "Barberlar, sartaroshlar va manikyur ustalari. Onlayn yozilish."
+  },
+  "nav": { "masters": "Ustalar", "services": "Xizmatlar", "contacts": "Aloqa", "admin": "Admin" },
+  "auth": { "signIn": "Kirish", "signUp": "Ro‘yxatdan o‘tish", "signOut": "Chiqish" },
+  "footer": {
+    "tagline": "Go‘zallik g‘amxo‘rlik bilan uchrashadigan maskan. O‘zingizga dam olish, parvarish va uyg‘unlik uchun vaqt ajrating.",
+    "hours": "Har kuni · 9:00 — 19:00",
+    "navigation": "Navigatsiya",
+    "contact": "Bog‘lanish",
+    "location": "Toshkent, O‘zbekiston",
+    "byAppointment": "Oldindan yozilish bo‘yicha",
+    "rights": "© 2026 Lumière. Barcha huquqlar himoyalangan.",
+    "motto": "Go‘zallik o‘zingizga g‘amxo‘rlikdan boshlanadi."
+  },
+  "home": {
+    "ourMasters": "Bizning ustalar",
+    "badge": "Premium go‘zallik saloni",
+    "hero": {
+      "l1": "Go‘zallik,",
+      "l2": "sizga atab",
+      "l3": "yaratilgan.",
+      "text": "Soch turmagi, rang berish, parvarish va manikyur — bir maskanda. Usta va qulay vaqtni tanlang va bir necha daqiqada yoziling.",
+      "book": "Onlayn yozilish →",
+      "alt": "Lumière saloni interyeri",
+      "cardLabel": "Sizning vaqtingiz",
+      "cardText": "Faqat o‘zingiz uchun"
+    },
+    "stats": { "pros": "mutaxassis", "care": "mijozlarga g‘amxo‘rlik", "daily": "har kuni" },
+    "masters": {
+      "eyebrow": "Lumière jamoasi",
+      "text": "Oddiy tashrifni yoqimli marosimga aylantiradigan mutaxassislar.",
+      "all": "Barcha ustalar"
+    },
+    "services": {
+      "eyebrow": "Parvarish va go‘zallik",
+      "title": "Mashhur xizmatlar",
+      "sub": "Lumière’dan professional parvarish"
+    },
+    "how": {
+      "eyebrow": "Hammasi oddiy",
+      "title": "Qanday yozilish kerak",
+      "text": "Usta tanlashdan yozilish tasdiqlanishigacha — atigi bir necha oddiy qadam.",
+      "s1": "Akkaunt yarating yoki tizimga kiring",
+      "s2": "Usta, xizmat va vaqtni tanlang",
+      "s3": "Salondan tasdiq oling"
+    },
+    "cta": {
+      "l1": "O‘zingiz uchun vaqt",
+      "l2": "shu yerdan boshlanadi.",
+      "text": "Xizmat va ustani tanlang — qolgan hammasiga biz g‘amxo‘rlik qilamiz.",
+      "button": "Hozir yozilish →"
+    }
+  },
+  "masters": {
+    "title": "Bizning ustalar",
+    "subtitle": "Mos toifani yoki mutaxassisni tanlang",
+    "all": "Hammasi",
+    "emptyTitle": "Bu toifada hozircha ustalar yo‘q.",
+    "emptyText": "Boshqa toifani tanlab ko‘ring yoki barcha mutaxassislarni ko‘ring.",
+    "showAll": "Barcha ustalarni ko‘rsatish",
+    "priceFrom": "{{price}} ₽ dan",
+    "book": "Yozilish"
+  },
+  "servicesPage": {
+    "title": "Xizmatlar va narxlar",
+    "text": "Mos muolajani tanlang va o‘zingizga qulay vaqtga yoziling.",
+    "duration": "Davomiyligi: {{min}} daqiqa",
+    "choose": "Tanlash"
+  },
+  "contacts": {
+    "title": "Aloqa",
+    "text": "Sizni salonimizda ko‘rishdan xursand bo‘lamiz. Muolajaga yozilish uchun biz bilan bog‘laning.",
+    "address": "Manzil",
+    "city": "Toshkent sh.",
+    "addressHint": "salon manzilini kiriting",
+    "phone": "Telefon",
+    "hoursLabel": "Ish vaqti",
+    "daily": "Har kuni"
+  },
+  "authPage": {
+    "signIn": { "title": "Kirish", "text": "Yozilishlar va tashriflaringizni boshqarish uchun akkauntingizga kiring." },
+    "signUp": { "title": "Ro‘yxatdan o‘tish", "text": "Muolajalarga yozilish va tashriflaringizni boshqarish uchun akkaunt yarating." }
+  },
+  "authForm": {
+    "signIn": { "title": "Kirish", "text": "Ustaga yozilish uchun tizimga kiring." },
+    "signUp": { "title": "Ro‘yxatdan o‘tish", "text": "Yozilish va tashriflaringizni ko‘rish uchun akkaunt kerak." },
+    "name": "Ismingiz",
+    "password": "Parol (kamida 6 ta belgi)",
+    "wait": "Iltimos, kuting…",
+    "create": "Akkaunt yaratish",
+    "submitIn": "Kirish",
+    "haveAccount": "Akkauntingiz bormi? Kirish",
+    "noAccount": "Akkauntingiz yo‘qmi? Ro‘yxatdan o‘ting",
+    "error": "Xatolik"
+  },
+  "booking": {
+    "title": "Yozilish",
+    "noMasters": "Hozircha ustalar yo‘q — keyinroq qaytib keling."
+  },
+  "bookingForm": {
+    "master": "Usta",
+    "service": "Xizmat",
+    "date": "Sana",
+    "time": "Vaqt",
+    "phone": "Telefon",
+    "sending": "Yuborilmoqda…",
+    "submit": "Ariza yuborish",
+    "chooseTime": "Vaqtni tanlang",
+    "error": "Xatolik"
+  },
+  "account": {
+    "title": "Mening yozilishlarim",
+    "sent": "Ariza yuborildi. Salon uni yaqin orada tasdiqlaydi.",
+    "when": "{{day}}, soat {{time}}",
+    "empty": "Hozircha yozilishlar yo‘q.",
+    "new": "Yangi yozilish"
+  },
+  "statuses": { "new": "Yangi", "confirmed": "Tasdiqlangan", "done": "Bajarilgan", "cancelled": "Bekor qilingan" },
+  "kinds": { "barber": "Barber", "hairdresser": "Sartarosh", "nails": "Manikyur ustasi", "other": "Boshqa usta" },
+  "services": {
+    "cut-w": "Ayollar soch turmagi va ukladka",
+    "color": "Soch bo‘yash",
+    "cut-m": "Erkaklar soch turmagi",
+    "beard": "Soqol shakllantirish",
+    "nails": "Manikyur",
+    "face": "Yuz parvarishi"
+  },
+  "roles": {
+    "Парикмахер-стилист": "Sartarosh-stilist",
+    "Барбер": "Barber",
+    "Колорист": "Kolorist",
+    "Мастер маникюра": "Manikyur ustasi"
+  },
+  "admin": {
+    "pin": {
+      "title": "Admin-panel",
+      "enter": "PIN-kodni kiriting",
+      "wrong": "PIN-kod noto‘g‘ri",
+      "login": "Kirish"
+    },
+    "title": "Admin-panel",
+    "subtitle": "Salon, ustalar va mijozlarni boshqarish",
+    "logout": "Chiqish",
+    "tabs": { "bookings": "Arizalar ({{count}})", "masters": "Ustalar ({{count}})", "clients": "Mijozlar ({{count}})" },
+    "genericError": "Xatolik yuz berdi",
+    "requestFailed": "So‘rovni bajarib bo‘lmadi",
+    "bookings": { "title": "Mijozlar arizalari" },
+    "heads": {
+      "client": "Mijoz",
+      "phone": "Telefon",
+      "master": "Usta",
+      "service": "Xizmat",
+      "date": "Sana",
+      "status": "Holat",
+      "name": "Ism",
+      "registered": "Ro‘yxatdan o‘tgan",
+      "visits": "Yozilishlar"
+    },
+    "clients": { "title": "Mijozlar" },
+    "mastersTab": {
+      "title": "Bizning ustalar",
+      "subtitle": "Salon mutaxassislarini boshqaring",
+      "delete": "O‘chirish",
+      "confirmDelete": "{{name}} ustani o‘chirasizmi?",
+      "formEyebrow": "Yangi mutaxassis",
+      "formTitle": "Usta qo‘shish",
+      "name": "Ism va familiya",
+      "role": "Lavozim",
+      "price": "Narxi (dan), ₽",
+      "photo": "Rasm havolasi",
+      "submit": "+ Usta qo‘shish"
+    }
+  },
+  "errors": {
+    "needLogin": "Yozilish uchun akkauntga kiring",
+    "checkBooking": "Telefon, xizmat, sana va vaqtni tekshiring",
+    "slotTaken": "Bu vaqt band",
+    "noAccess": "Ruxsat yo‘q",
+    "badStatus": "Holat noto‘g‘ri",
+    "fillMaster": "Ism, lavozim, tur va narxni to‘ldiring",
+    "badLogin": "Email yoki parol noto‘g‘ri",
+    "registerInvalid": "Ism, email va kamida 6 ta belgidan iborat parolni kiriting",
+    "emailTaken": "Bu email allaqachon ro‘yxatdan o‘tgan",
+    "wrongPin": "PIN-kod noto‘g‘ri"
+  }
+}

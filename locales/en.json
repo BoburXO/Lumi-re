@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "title": "Lumière — beauty salon",
+    "description": "Barbers, hairdressers and nail artists. Online booking."
+  },
+  "nav": { "masters": "Specialists", "services": "Services", "contacts": "Contacts", "admin": "Admin" },
+  "auth": { "signIn": "Sign in", "signUp": "Sign up", "signOut": "Sign out" },
+  "footer": {
+    "tagline": "A place where beauty meets care. Give yourself time for rest, care and harmony.",
+    "hours": "Daily · 9:00 — 19:00",
+    "navigation": "Navigation",
+    "contact": "Get in touch",
+    "location": "Tashkent, Uzbekistan",
+    "byAppointment": "By appointment only",
+    "rights": "© 2026 Lumière. All rights reserved.",
+    "motto": "Beauty begins with caring for yourself."
+  },
+  "home": {
+    "ourMasters": "Our specialists",
+    "badge": "Premium beauty salon",
+    "hero": {
+      "l1": "Beauty,",
+      "l2": "created",
+      "l3": "for you.",
+      "text": "Haircuts, colour, care and manicure in one space. Choose a specialist and a convenient time, and book in just a few minutes.",
+      "book": "Book online →",
+      "alt": "Lumière salon interior",
+      "cardLabel": "Your time",
+      "cardText": "Just for yourself"
+    },
+    "stats": { "pros": "professionals", "care": "of client care", "daily": "daily" },
+    "masters": {
+      "eyebrow": "The Lumière team",
+      "text": "Professionals who turn an ordinary visit into a pleasant ritual.",
+      "all": "All specialists"
+    },
+    "services": {
+      "eyebrow": "Care & beauty",
+      "title": "Popular services",
+      "sub": "Professional Lumière care"
+    },
+    "how": {
+      "eyebrow": "It's simple",
+      "title": "How to book",
+      "text": "From choosing a specialist to booking confirmation — just a few simple steps.",
+      "s1": "Create an account or sign in",
+      "s2": "Choose a specialist, service and time",
+      "s3": "Get confirmation from the salon"
+    },
+    "cta": {
+      "l1": "Time for yourself",
+      "l2": "starts here.",
+      "text": "Choose a service and a specialist — we'll take care of everything else.",
+      "button": "Book now →"
+    }
+  },
+  "masters": {
+    "title": "Our specialists",
+    "subtitle": "Choose a category or a specialist",
+    "all": "All",
+    "emptyTitle": "There are no specialists in this category yet.",
+    "emptyText": "Try another category or view all specialists.",
+    "showAll": "Show all specialists",
+    "priceFrom": "from {{price}} ₽",
+    "book": "Book"
+  },
+  "servicesPage": {
+    "title": "Services & prices",
+    "text": "Choose a treatment and book a time that suits you.",
+    "duration": "Duration: {{min}} min",
+    "choose": "Select"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "text": "We would be happy to see you at our salon. Contact us to book a treatment.",
+    "address": "Address",
+    "city": "Tashkent",
+    "addressHint": "enter the salon address",
+    "phone": "Phone",
+    "hoursLabel": "Opening hours",
+    "daily": "Daily"
+  },
+  "authPage": {
+    "signIn": { "title": "Sign in", "text": "Sign in to your account to manage your bookings and visits." },
+    "signUp": { "title": "Sign up", "text": "Create an account to book treatments and manage your visits." }
+  },
+  "authForm": {
+    "signIn": { "title": "Sign in", "text": "Sign in to book a specialist." },
+    "signUp": { "title": "Sign up", "text": "An account lets you book and see your visits." },
+    "name": "Your name",
+    "password": "Password (at least 6 characters)",
+    "wait": "Please wait…",
+    "create": "Create account",
+    "submitIn": "Sign in",
+    "haveAccount": "Already have an account? Sign in",
+    "noAccount": "No account? Sign up",
+    "error": "Error"
+  },
+  "booking": {
+    "title": "Booking",
+    "noMasters": "No specialists yet — please check back later."
+  },
+  "bookingForm": {
+    "master": "Specialist",
+    "service": "Service",
+    "date": "Date",
+    "time": "Time",
+    "phone": "Phone",
+    "sending": "Sending…",
+    "submit": "Send request",
+    "chooseTime": "Choose a time",
+    "error": "Error"
+  },
+  "account": {
+    "title": "My bookings",
+    "sent": "Request sent. The salon will confirm it shortly.",
+    "when": "{{day}} at {{time}}",
+    "empty": "No bookings yet.",
+    "new": "New booking"
+  },
+  "statuses": { "new": "New", "confirmed": "Confirmed", "done": "Completed", "cancelled": "Cancelled" },
+  "kinds": { "barber": "Barber", "hairdresser": "Hairdresser", "nails": "Nail artist", "other": "Other specialist" },
+  "services": {
+    "cut-w": "Women's haircut & styling",
+    "color": "Hair colouring",
+    "cut-m": "Men's haircut",
+    "beard": "Beard trim & shaping",
+    "nails": "Manicure",
+    "face": "Facial care"
+  },
+  "roles": {
+    "Парикмахер-стилист": "Hair stylist",
+    "Барбер": "Barber",
+    "Колорист": "Colourist",
+    "Мастер маникюра": "Nail artist"
+  },
+  "admin": {
+    "pin": {
+      "title": "Admin panel",
+      "enter": "Enter PIN code",
+      "wrong": "Wrong PIN code",
+      "login": "Sign in"
+    },
+    "title": "Admin panel",
+    "subtitle": "Manage the salon, specialists and clients",
+    "logout": "Sign out",
+    "tabs": { "bookings": "Requests ({{count}})", "masters": "Specialists ({{count}})", "clients": "Clients ({{count}})" },
+    "genericError": "Something went wrong",
+    "requestFailed": "Could not complete the request",
+    "bookings": { "title": "Client requests" },
+    "heads": {
+      "client": "Client",
+      "phone": "Phone",
+      "master": "Specialist",
+      "service": "Service",
+      "date": "Date",
+      "status": "Status",
+      "name": "Name",
+      "registered": "Registered",
+      "visits": "Bookings"
+    },
+    "clients": { "title": "Clients" },
+    "mastersTab": {
+      "title": "Our specialists",
+      "subtitle": "Manage the salon's specialists",
+      "delete": "Delete",
+      "confirmDelete": "Delete specialist {{name}}?",
+      "formEyebrow": "New specialist",
+      "formTitle": "Add a specialist",
+      "name": "Full name",
+      "role": "Job title",
+      "price": "Price from, ₽",
+      "photo": "Photo link",
+      "submit": "+ Add specialist"
+    }
+  },
+  "errors": {
+    "needLogin": "Sign in to book",
+    "checkBooking": "Check the phone, service, date and time",
+    "slotTaken": "This time is already taken",
+    "noAccess": "Access denied",
+    "badStatus": "Invalid status",
+    "fillMaster": "Fill in the name, job title, type and price",
+    "badLogin": "Wrong email or password",
+    "registerInvalid": "Enter a name, an email and a password of at least 6 characters",
+    "emailTaken": "This email is already registered",
+    "wrongPin": "Wrong PIN code"
+  }
+}

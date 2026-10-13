@@ -1,0 +1,131 @@
+{
+  "seq": 23,
+  "users": [
+    {
+      "id": "u22",
+      "name": "Incred1ble bobur",
+      "email": "incred1blebobur@gmail.com",
+      "salt": "2e94ccbe71fa25b412e4d616cf126988",
+      "hash": "0d57421150185329b0a61b0f3c6afc49517c010117aeb61fca0dab37112a579c",
+      "created": "2026-10-07T12:54:19.451Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "0dfa8ae75425a86e9026b13fc2f8d1a363eec98fa70e98c0b9f58fbcaa898c30",
+      "userId": "u22"
+    }
+  ],
+  "appointments": [
+    {
+      "id": 23,
+      "user_id": "u22",
+      "client_name": "Incred1ble bobur",
+      "phone": "+987654567876",
+      "master_id": 16,
+      "service": "Женская стрижка и укладка",
+      "day": "2026-10-07",
+      "time": "16:00",
+      "status": "new",
+      "created_at": "2026-10-07T12:55:08.181Z"
+    }
+  ],
+  "masters": [
+    {
+      "id": 1,
+      "name": "Анна Морозова",
+      "role": "Парикмахер-стилист",
+      "kind": "hairdresser",
+      "price": 3200,
+      "photo": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Алексей Смирнов",
+      "role": "Барбер",
+      "kind": "barber",
+      "price": 1800,
+      "photo": "https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Ольга Воронова",
+      "role": "Колорист",
+      "kind": "hairdresser",
+      "price": 4500,
+      "photo": "https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Мария Белова",
+      "role": "Мастер маникюра",
+      "kind": "nails",
+      "price": 2200,
+      "photo": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "id": 11,
+      "name": "Юн Вика",
+      "role": "Парикмахер стишка",
+      "kind": "hairdresser",
+      "price": 700000,
+      "photo": "https://frankfurt.apollo.olxcdn.com/v1/files/v508q380cq2t-UZ/image;s=1200x797"
+    },
+    {
+      "id": 12,
+      "name": "Incred1ble bobur",
+      "role": "Барбер",
+      "kind": "barber",
+      "price": 650000,
+      "photo": "https://www.velenaarmavir.ru/images/2023/01/25/_.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Саша",
+      "role": "Барбер",
+      "kind": "barber",
+      "price": 54000,
+      "photo": "https://nn.hairurg.com/img/345vhgfds9345qujf.png"
+    },
+    {
+      "id": 14,
+      "name": "Сальма",
+      "role": "Маникюр",
+      "kind": "nails",
+      "price": 153000000,
+      "photo": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/347470478098818.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Юля",
+      "role": "Парикмахер",
+      "kind": "hairdresser",
+      "price": 650000,
+      "photo": "https://grodno24.com/assets/images/2021/02/krasit-volosy.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Наташа",
+      "role": "Парикмахер",
+      "kind": "hairdresser",
+      "price": 700000,
+      "photo": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347290738331230.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Имана",
+      "role": "Педикюр",
+      "kind": "nails",
+      "price": 490000,
+      "photo": "https://epilbar.md/upload/services/2yh0v3em2x.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Камиль",
+      "role": "Окрашивание волос",
+      "kind": "barber",
+      "price": 539990,
+      "photo": "https://dabro.hair/img/articles/muzhskoe-okrashivanie-volos_2.jpg"
+    }
+  ]
+}
